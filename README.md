@@ -1,7 +1,7 @@
 # Comanda Menu
 
 <p align="center">
-  <img src="./logo.png" alt="Logo Comanda Menu" width="180">
+  <img src="./tela_pedido/img/logo.png" alt="Logo Comanda Menu" width="180">
 </p>
 
 Sistema web para gerenciamento de pedidos em restaurantes, desenvolvido em equipe como Projeto Integrador do 1º ano do curso Técnico em Desenvolvimento de Sistemas do SENAI.
