@@ -29,7 +29,7 @@ O sistema conta com uma interface para realização de pedidos e uma área admin
 - MySQL
 - HTML
 - CSS
-- JavaScript
+- Bootstrap
 
 ## Minha participação
 
